@@ -2,6 +2,7 @@ package stream.excercise;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
+import stream.excercise.domain.Person;
 
 import java.util.Collections;
 import java.util.List;

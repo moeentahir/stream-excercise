@@ -1,8 +1,8 @@
-package stream.excercise;
+package stream.excercise.domain;
 
 import java.util.Objects;
 
-class Person {
+public class Person {
     private final String name;
     private final int age;
     private final String nationality;
